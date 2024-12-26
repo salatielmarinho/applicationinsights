@@ -6,7 +6,6 @@ Exemplo de geração de eventos envolvendo o voto em uma enquete sobre o dia favor
 ```shell
 $ tree
 .
-Directory structure:
 ??? salatielmarinho-applicationinsights/
     ??? LICENSE
     ??? README.md
