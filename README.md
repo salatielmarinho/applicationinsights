@@ -80,21 +80,27 @@ Estrutura de Diretório:
 
 1. **Clone o Repositório:** Primeiro, faça o clone do repositório para o seu ambiente local. Utilize o comando abaixo no terminal ou prompt de comando:
 
-```bash git clone https://github.com/salatielmarinho/applicationinsights.git ```
+```bash
+git clone https://github.com/salatielmarinho/applicationinsights.git
+```
 
 2. **Acesse o Diretório do Projeto:** Navegue até o diretório onde o repositório foi clonado:
 
-```bash cd salatielmarinho-applicationinsights ```
+```bash
+cd salatielmarinho-applicationinsights
+```
 
 3. **Instale as Dependências:** Certifique-se de ter o .NET SDK instalado na sua máquina. Em seguida, instale as dependências do projeto:
 
-```bash dotnet restore ```
+```bash
+dotnet restore
+```
 
 4. **Configuração de Ambiente (Opcional):** Verifique os arquivos de configuração `appsettings.Development.json` e `appsettings.json` para ajustar as configurações conforme necessário.
 
 5. **Compilar e Executar o Projeto:** Compile o projeto e, em seguida, execute-o:
 
-````bash
+```bash
 dotnet build
 dotnet run
 ```
