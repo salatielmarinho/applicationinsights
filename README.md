@@ -4,7 +4,7 @@ Exemplo de geração de eventos envolvendo o voto em uma enquete sobre o dia fav
 ## Estrutura de Diretório
 
 ```shell
- Estrutura de Diretório:
+Estrutura de Diretório:
 └── salatielmarinho-applicationinsights/
     ├── assets/
     ├── README.md
