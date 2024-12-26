@@ -3,6 +3,7 @@ Exemplo de geração de eventos envolvendo o voto em uma enquete sobre o dia favor
 
 ## Estrutura de Diretório
 
+```
 Directory structure:
 ??? salatielmarinho-applicationinsights/
     ??? LICENSE
@@ -72,6 +73,7 @@ Directory structure:
             ?   ??? _ViewImports.cshtml
             ?   ??? _ViewStart.cshtml
             ??? Program.cs
+```
 
 ## Instalação 
 
